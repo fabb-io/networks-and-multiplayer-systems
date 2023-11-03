@@ -6,6 +6,8 @@ We ended up the course by have a project dedicated at the subject, a 3D videogam
 We decided, due to the little time we had, to take the 3D videgame we made in the other subject and modify it from single-player to a co-op multiplayer.
 Was quite a challenge due to all the interaction e possibilities caused by 2 player interacting with a system, but we ended up having a well put together project.
 
+Here the link to the files(the project are heavy and git is giving me trouble uploading them):
+https://drive.google.com/drive/folders/12TwhMTeU-HFoZBBQwaPv7VMi4gUGVhVQ?usp=sharing
 
 If you're trying to use our project:
 to play with a friend you'll be given the possibility to host a game, and on your screen will appear a code, 
